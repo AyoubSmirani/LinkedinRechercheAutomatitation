@@ -130,6 +130,5 @@ root.mainloop()
 
 
 
-#ayoubsmirani9@gmail.com
-#Piston.123
+
 
